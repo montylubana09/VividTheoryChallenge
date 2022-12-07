@@ -29,7 +29,7 @@ AppDataSource.initialize().then(()=>{
       //Get call for the initial page with the pagination params
       app.get("/:page", async(req,res)=>
       {
-        console.log(req.params.page);
+        
          const blogs = await AppDataSource.manager
         .createQueryBuilder(Blogs, "blogs")
         .where('published_at IS NOT NULL')
