@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  color: linear-gradient(-90deg, #efeeeb, #bd1f1f);
+  
+
+}
+h2
+{
+  text-align: center;
+  font-weight: bold;
+}
+img {
+
+  max-width: 90vmax;
+}
+
+
+a{
+  text-decoration: none;
+  color: brown;
+}
+
+a:hover,a:focus
+{
+  text-decoration: none;
+  color: brown;
+}
+
+body{
+  background: linear-gradient(-90deg, #a2a19f, #7c6868);
+}
+
+p
+{
+  font-weight:500;
+}
