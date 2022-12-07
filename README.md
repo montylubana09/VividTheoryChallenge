@@ -26,7 +26,7 @@ Make sure to start the backend first to render the blogs into the frontend. If n
 
 ## To run the frontend of the project.
 
-1. Navigate to the 'Frontend' directory.
+1. Navigate to the 'vividblog' directory.
 2. Open the terminal in the directory.
 3. Type 'npm start' to start the project.
 
